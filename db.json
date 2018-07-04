@@ -48,6 +48,11 @@
             "_id": "abo29v924",
             "name": "Modern Sofa",
             "price": 1600.00,
+            "images": [
+                "https://secure.img1-ag.wfcdn.com/im/92792943/resize-h800%5Ecompr-r85/3655/36555141/Derry+Sofa.jpg", 
+                "https://secure.img1-ag.wfcdn.com/im/70091117/resize-h800%5Ecompr-r85/3655/36555143/Derry+Sofa.jpg",
+                "https://secure.img1-ag.wfcdn.com/im/81442030/resize-h800%5Ecompr-r85/3655/36555142/Derry+Sofa.jpg"
+             ],
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sagittis varius congue. Phasellus nec est et est aliquet aliquet. Mauris quis elit dui. Pellentesque rhoncus lacinia tempus. Vestibulum mollis augue nec nisi auctor vehicula. Mauris sodales iaculis luctus. Nullam leo lectus, venenatis id laoreet sit amet, lobortis ac eros. Mauris eget purus sed ex consectetur sollicitudin id ac massa. Nam tempus gravida lobortis. Duis id lectus aliquam, pharetra massa ut, vulputate odio. Vestibulum scelerisque tortor eu augue maximus, vel rutrum mi pulvinar. Nulla gravida vitae leo",
             "specifications":{
                 "manufacturer": "Singer",
