@@ -6,7 +6,7 @@
             "cover": "https://images.unsplash.com/photo-1506377295352-e3154d43ea9e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=45b23363a3f913999845ba0f7c6358a0&w=1000&q=80",
             "createdAt": "2018-06-16T18:10:06.315Z",
             "updatedAt": "2018-06-16T18:10:06.315Z",
-            "products: [
+            "products": [
                 {
                     "id": "abo29v924",
                     "name": "Modern Sofa",
@@ -43,7 +43,7 @@
                         "cover": "https://images.unsplash.com/photo-1506377295352-e3154d43ea9e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=45b23363a3f913999845ba0f7c6358a0&w=1000&q=80",
                         "createdAt": "2018-06-16T18:10:06.315Z",
                         "updatedAt": "2018-06-16T18:10:06.315Z"
-
+                
                     },
                     "vendor": {
                         "id": "o9e99201",
@@ -64,8 +64,7 @@
             "cover": "https://images.unsplash.com/photo-1503011510-c0e00592713b?ixlib=rb-0.3.5&s=2e1cc0c11c73482f029a2367170133b0&w=1000&q=80",
             "createdAt": "2018-06-16T18:10:06.315Z",
             "updatedAt": "2018-06-16T18:10:06.315Z",
-            "products: []
-    
+            "products": []
         },
         {
             "id": "ep8490201",
@@ -73,8 +72,7 @@
             "cover": "https://images.unsplash.com/photo-1517414628894-83d47b22f233?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=fbaf25266fdc53051aab6d4bcda9880d&w=1000&q=80",
             "createdAt": "2018-06-16T18:10:06.315Z",
             "updatedAt": "2018-06-16T18:10:06.315Z",
-            "products: []
-    
+            "products": []
         },
         {
             "id": "ep8490201",
@@ -82,8 +80,7 @@
             "cover": "https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=58e46263ad3bf111afb122d48a46b2c6&auto=format&fit=crop&w=2000&q=60",
             "createdAt": "2018-06-16T18:10:06.315Z",
             "updatedAt": "2018-06-16T18:10:06.315Z",
-            "products: []
-    
+            "products": []
         }
     ],
     "vendors": [
