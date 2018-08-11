@@ -5,7 +5,221 @@
             "name": "Living Room",
             "cover": "https://images.unsplash.com/photo-1506377295352-e3154d43ea9e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=45b23363a3f913999845ba0f7c6358a0&w=1000&q=80",
             "createdAt": "2018-06-16T18:10:06.315Z",
-            "updatedAt": "2018-06-16T18:10:06.315Z"
+            "updatedAt": "2018-06-16T18:10:06.315Z",
+            "products": [
+                {
+                    "_id": "abo29v924",
+                    "name": "Maggie Arm Chair",
+                    "price": 1600.00,
+                    "model": {
+                        "android": "maggiearmchair",
+                        "ios": "maggiearmchair"
+                    },
+                    "images": [
+                        "https://secure.img1-ag.wfcdn.com/im/92792943/resize-h800%5Ecompr-r85/3655/36555141/Derry+Sofa.jpg", 
+                        "https://secure.img1-ag.wfcdn.com/im/70091117/resize-h800%5Ecompr-r85/3655/36555143/Derry+Sofa.jpg",
+                        "https://secure.img1-ag.wfcdn.com/im/81442030/resize-h800%5Ecompr-r85/3655/36555142/Derry+Sofa.jpg"
+                     ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sagittis varius congue. Phasellus nec est et est aliquet aliquet. Mauris quis elit dui. Pellentesque rhoncus lacinia tempus. Vestibulum mollis augue nec nisi auctor vehicula. Mauris sodales iaculis luctus. Nullam leo lectus, venenatis id laoreet sit amet, lobortis ac eros. Mauris eget purus sed ex consectetur sollicitudin id ac massa. Nam tempus gravida lobortis. Duis id lectus aliquam, pharetra massa ut, vulputate odio. Vestibulum scelerisque tortor eu augue maximus, vel rutrum mi pulvinar. Nulla gravida vitae leo",
+                    "specifications":{
+                        "manufacturer": "Singer",
+                        "modelNo": "XYZ1",
+                        "weight": "21",
+                        "size": {
+                            "w": 41.5,
+                            "h": 20,
+                            "d": 11.5
+                        },
+                        "materials": [
+                            "leather", "wood"
+                        ],
+                        "style": [
+                            "modern"
+                        ]
+                    },
+                    "info": [
+                        "1 year warranty",
+                        "Free service upto 6 months"
+                    ],
+                    "category": {
+                        "_id": "5a8399b2",
+                        "name": "Living Room",
+                        "cover": "https://images.unsplash.com/photo-1506377295352-e3154d43ea9e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=45b23363a3f913999845ba0f7c6358a0&w=1000&q=80",
+                        "createdAt": "2018-06-16T18:10:06.315Z",
+                        "updatedAt": "2018-06-16T18:10:06.315Z"
+                
+                    },
+                    "vendor": {
+                        "_id": "o9e99201",
+                        "name": "Singer",
+                        "logo": "https://cdn.freebiesupply.com/logos/large/2x/singer-3-logo-png-transparent.png",
+                        "website": "https://www.singersl.com",
+                        "createdAt": "2018-06-16T18:10:06.315Z",
+                        "updatedAt": "2018-06-16T18:10:06.315Z"
+                    },
+                    "createdAt": "2018-06-16T18:10:06.315Z",
+                    "updatedAt": "2018-06-16T18:10:06.315Z"
+                },
+                {
+                    "_id": "7897845",
+                    "name": "Buckland Tripod Floor Lamp",
+                    "price": 1600.00,
+                    "model": {
+                        "android": "bucklandfloorlamp",
+                        "ios": "bucklandfloorlamp"
+                    },
+                    "images": [
+                        "https://secure.img1-ag.wfcdn.com/im/92792943/resize-h800%5Ecompr-r85/3655/36555141/Derry+Sofa.jpg", 
+                        "https://secure.img1-ag.wfcdn.com/im/70091117/resize-h800%5Ecompr-r85/3655/36555143/Derry+Sofa.jpg",
+                        "https://secure.img1-ag.wfcdn.com/im/81442030/resize-h800%5Ecompr-r85/3655/36555142/Derry+Sofa.jpg"
+                     ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sagittis varius congue. Phasellus nec est et est aliquet aliquet. Mauris quis elit dui. Pellentesque rhoncus lacinia tempus. Vestibulum mollis augue nec nisi auctor vehicula. Mauris sodales iaculis luctus. Nullam leo lectus, venenatis id laoreet sit amet, lobortis ac eros. Mauris eget purus sed ex consectetur sollicitudin id ac massa. Nam tempus gravida lobortis. Duis id lectus aliquam, pharetra massa ut, vulputate odio. Vestibulum scelerisque tortor eu augue maximus, vel rutrum mi pulvinar. Nulla gravida vitae leo",
+                    "specifications":{
+                        "manufacturer": "Singer",
+                        "modelNo": "XYZ1",
+                        "weight": "21",
+                        "size": {
+                            "w": 41.5,
+                            "h": 20,
+                            "d": 11.5
+                        },
+                        "materials": [
+                            "leather", "wood"
+                        ],
+                        "style": [
+                            "modern"
+                        ]
+                    },
+                    "info": [
+                        "1 year warranty",
+                        "Free service upto 6 months"
+                    ],
+                    "category": {
+                        "_id": "5a8399b2",
+                        "name": "Living Room",
+                        "cover": "https://images.unsplash.com/photo-1506377295352-e3154d43ea9e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=45b23363a3f913999845ba0f7c6358a0&w=1000&q=80",
+                        "createdAt": "2018-06-16T18:10:06.315Z",
+                        "updatedAt": "2018-06-16T18:10:06.315Z"
+                
+                    },
+                    "vendor": {
+                        "_id": "o9e99201",
+                        "name": "Singer",
+                        "logo": "https://cdn.freebiesupply.com/logos/large/2x/singer-3-logo-png-transparent.png",
+                        "website": "https://www.singersl.com",
+                        "createdAt": "2018-06-16T18:10:06.315Z",
+                        "updatedAt": "2018-06-16T18:10:06.315Z"
+                    },
+                    "createdAt": "2018-06-16T18:10:06.315Z",
+                    "updatedAt": "2018-06-16T18:10:06.315Z"
+                },
+                {
+                    "_id": "45657454",
+                    "name": "San Diego Coffee Table with Drawers",
+                    "price": 1600.00,
+                    "model": {
+                        "android": "coffeetable",
+                        "ios": "coffeetable"
+                    },
+                    "images": [
+                        "https://secure.img1-ag.wfcdn.com/im/92792943/resize-h800%5Ecompr-r85/3655/36555141/Derry+Sofa.jpg", 
+                        "https://secure.img1-ag.wfcdn.com/im/70091117/resize-h800%5Ecompr-r85/3655/36555143/Derry+Sofa.jpg",
+                        "https://secure.img1-ag.wfcdn.com/im/81442030/resize-h800%5Ecompr-r85/3655/36555142/Derry+Sofa.jpg"
+                     ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sagittis varius congue. Phasellus nec est et est aliquet aliquet. Mauris quis elit dui. Pellentesque rhoncus lacinia tempus. Vestibulum mollis augue nec nisi auctor vehicula. Mauris sodales iaculis luctus. Nullam leo lectus, venenatis id laoreet sit amet, lobortis ac eros. Mauris eget purus sed ex consectetur sollicitudin id ac massa. Nam tempus gravida lobortis. Duis id lectus aliquam, pharetra massa ut, vulputate odio. Vestibulum scelerisque tortor eu augue maximus, vel rutrum mi pulvinar. Nulla gravida vitae leo",
+                    "specifications":{
+                        "manufacturer": "Singer",
+                        "modelNo": "XYZ1",
+                        "weight": "21",
+                        "size": {
+                            "w": 41.5,
+                            "h": 20,
+                            "d": 11.5
+                        },
+                        "materials": [
+                            "leather", "wood"
+                        ],
+                        "style": [
+                            "modern"
+                        ]
+                    },
+                    "info": [
+                        "1 year warranty",
+                        "Free service upto 6 months"
+                    ],
+                    "category": {
+                        "_id": "5a8399b2",
+                        "name": "Living Room",
+                        "cover": "https://images.unsplash.com/photo-1506377295352-e3154d43ea9e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=45b23363a3f913999845ba0f7c6358a0&w=1000&q=80",
+                        "createdAt": "2018-06-16T18:10:06.315Z",
+                        "updatedAt": "2018-06-16T18:10:06.315Z"
+                
+                    },
+                    "vendor": {
+                        "_id": "o9e99201",
+                        "name": "Singer",
+                        "logo": "https://cdn.freebiesupply.com/logos/large/2x/singer-3-logo-png-transparent.png",
+                        "website": "https://www.singersl.com",
+                        "createdAt": "2018-06-16T18:10:06.315Z",
+                        "updatedAt": "2018-06-16T18:10:06.315Z"
+                    },
+                    "createdAt": "2018-06-16T18:10:06.315Z",
+                    "updatedAt": "2018-06-16T18:10:06.315Z"
+                },
+                {
+                    "_id": "84236788",
+                    "name": "Walton Lane Sofa",
+                    "price": 1600.00,
+                    "model": {
+                        "android": "waltensofa",
+                        "ios": "waltensofa"
+                    },
+                    "images": [
+                        "https://secure.img1-ag.wfcdn.com/im/92792943/resize-h800%5Ecompr-r85/3655/36555141/Derry+Sofa.jpg", 
+                        "https://secure.img1-ag.wfcdn.com/im/70091117/resize-h800%5Ecompr-r85/3655/36555143/Derry+Sofa.jpg",
+                        "https://secure.img1-ag.wfcdn.com/im/81442030/resize-h800%5Ecompr-r85/3655/36555142/Derry+Sofa.jpg"
+                     ],
+                    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sagittis varius congue. Phasellus nec est et est aliquet aliquet. Mauris quis elit dui. Pellentesque rhoncus lacinia tempus. Vestibulum mollis augue nec nisi auctor vehicula. Mauris sodales iaculis luctus. Nullam leo lectus, venenatis id laoreet sit amet, lobortis ac eros. Mauris eget purus sed ex consectetur sollicitudin id ac massa. Nam tempus gravida lobortis. Duis id lectus aliquam, pharetra massa ut, vulputate odio. Vestibulum scelerisque tortor eu augue maximus, vel rutrum mi pulvinar. Nulla gravida vitae leo",
+                    "specifications":{
+                        "manufacturer": "Singer",
+                        "modelNo": "XYZ1",
+                        "weight": "21",
+                        "size": {
+                            "w": 41.5,
+                            "h": 20,
+                            "d": 11.5
+                        },
+                        "materials": [
+                            "leather", "wood"
+                        ],
+                        "style": [
+                            "modern"
+                        ]
+                    },
+                    "info": [
+                        "1 year warranty",
+                        "Free service upto 6 months"
+                    ],
+                    "category": {
+                        "_id": "5a8399b2",
+                        "name": "Living Room",
+                        "cover": "https://images.unsplash.com/photo-1506377295352-e3154d43ea9e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=45b23363a3f913999845ba0f7c6358a0&w=1000&q=80",
+                        "createdAt": "2018-06-16T18:10:06.315Z",
+                        "updatedAt": "2018-06-16T18:10:06.315Z"
+                
+                    },
+                    "vendor": {
+                        "_id": "o9e99201",
+                        "name": "Singer",
+                        "logo": "https://cdn.freebiesupply.com/logos/large/2x/singer-3-logo-png-transparent.png",
+                        "website": "https://www.singersl.com",
+                        "createdAt": "2018-06-16T18:10:06.315Z",
+                        "updatedAt": "2018-06-16T18:10:06.315Z"
+                    },
+                    "createdAt": "2018-06-16T18:10:06.315Z",
+                    "updatedAt": "2018-06-16T18:10:06.315Z"
+                }
+            ]
         },
         {
             "_id": "18oq9991",
@@ -42,8 +256,171 @@
     "products": [
         {
             "_id": "abo29v924",
-            "name": "Modern Sofa",
+            "name": "Maggie Arm Chair",
             "price": 1600.00,
+            "model": {
+                "android": "maggiearmchair",
+                "ios": "maggiearmchair"
+            },
+            "images": [
+                "https://secure.img1-ag.wfcdn.com/im/92792943/resize-h800%5Ecompr-r85/3655/36555141/Derry+Sofa.jpg", 
+                "https://secure.img1-ag.wfcdn.com/im/70091117/resize-h800%5Ecompr-r85/3655/36555143/Derry+Sofa.jpg",
+                "https://secure.img1-ag.wfcdn.com/im/81442030/resize-h800%5Ecompr-r85/3655/36555142/Derry+Sofa.jpg"
+             ],
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sagittis varius congue. Phasellus nec est et est aliquet aliquet. Mauris quis elit dui. Pellentesque rhoncus lacinia tempus. Vestibulum mollis augue nec nisi auctor vehicula. Mauris sodales iaculis luctus. Nullam leo lectus, venenatis id laoreet sit amet, lobortis ac eros. Mauris eget purus sed ex consectetur sollicitudin id ac massa. Nam tempus gravida lobortis. Duis id lectus aliquam, pharetra massa ut, vulputate odio. Vestibulum scelerisque tortor eu augue maximus, vel rutrum mi pulvinar. Nulla gravida vitae leo",
+            "specifications":{
+                "manufacturer": "Singer",
+                "modelNo": "XYZ1",
+                "weight": "21",
+                "size": {
+                    "w": 41.5,
+                    "h": 20,
+                    "d": 11.5
+                },
+                "materials": [
+                    "leather", "wood"
+                ],
+                "style": [
+                    "modern"
+                ]
+            },
+            "info": [
+                "1 year warranty",
+                "Free service upto 6 months"
+            ],
+            "category": {
+                "_id": "5a8399b2",
+                "name": "Living Room",
+                "cover": "https://images.unsplash.com/photo-1506377295352-e3154d43ea9e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=45b23363a3f913999845ba0f7c6358a0&w=1000&q=80",
+                "createdAt": "2018-06-16T18:10:06.315Z",
+                "updatedAt": "2018-06-16T18:10:06.315Z"
+        
+            },
+            "vendor": {
+                "_id": "o9e99201",
+                "name": "Singer",
+                "logo": "https://cdn.freebiesupply.com/logos/large/2x/singer-3-logo-png-transparent.png",
+                "website": "https://www.singersl.com",
+                "createdAt": "2018-06-16T18:10:06.315Z",
+                "updatedAt": "2018-06-16T18:10:06.315Z"
+            },
+            "createdAt": "2018-06-16T18:10:06.315Z",
+            "updatedAt": "2018-06-16T18:10:06.315Z"
+        },
+        {
+            "_id": "7897845",
+            "name": "Buckland Tripod Floor Lamp",
+            "price": 1600.00,
+            "model": {
+                "android": "bucklandfloorlamp",
+                "ios": "bucklandfloorlamp"
+            },
+            "images": [
+                "https://secure.img1-ag.wfcdn.com/im/92792943/resize-h800%5Ecompr-r85/3655/36555141/Derry+Sofa.jpg", 
+                "https://secure.img1-ag.wfcdn.com/im/70091117/resize-h800%5Ecompr-r85/3655/36555143/Derry+Sofa.jpg",
+                "https://secure.img1-ag.wfcdn.com/im/81442030/resize-h800%5Ecompr-r85/3655/36555142/Derry+Sofa.jpg"
+             ],
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sagittis varius congue. Phasellus nec est et est aliquet aliquet. Mauris quis elit dui. Pellentesque rhoncus lacinia tempus. Vestibulum mollis augue nec nisi auctor vehicula. Mauris sodales iaculis luctus. Nullam leo lectus, venenatis id laoreet sit amet, lobortis ac eros. Mauris eget purus sed ex consectetur sollicitudin id ac massa. Nam tempus gravida lobortis. Duis id lectus aliquam, pharetra massa ut, vulputate odio. Vestibulum scelerisque tortor eu augue maximus, vel rutrum mi pulvinar. Nulla gravida vitae leo",
+            "specifications":{
+                "manufacturer": "Singer",
+                "modelNo": "XYZ1",
+                "weight": "21",
+                "size": {
+                    "w": 41.5,
+                    "h": 20,
+                    "d": 11.5
+                },
+                "materials": [
+                    "leather", "wood"
+                ],
+                "style": [
+                    "modern"
+                ]
+            },
+            "info": [
+                "1 year warranty",
+                "Free service upto 6 months"
+            ],
+            "category": {
+                "_id": "5a8399b2",
+                "name": "Living Room",
+                "cover": "https://images.unsplash.com/photo-1506377295352-e3154d43ea9e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=45b23363a3f913999845ba0f7c6358a0&w=1000&q=80",
+                "createdAt": "2018-06-16T18:10:06.315Z",
+                "updatedAt": "2018-06-16T18:10:06.315Z"
+        
+            },
+            "vendor": {
+                "_id": "o9e99201",
+                "name": "Singer",
+                "logo": "https://cdn.freebiesupply.com/logos/large/2x/singer-3-logo-png-transparent.png",
+                "website": "https://www.singersl.com",
+                "createdAt": "2018-06-16T18:10:06.315Z",
+                "updatedAt": "2018-06-16T18:10:06.315Z"
+            },
+            "createdAt": "2018-06-16T18:10:06.315Z",
+            "updatedAt": "2018-06-16T18:10:06.315Z"
+        },
+        {
+            "_id": "45657454",
+            "name": "San Diego Coffee Table with Drawers",
+            "price": 1600.00,
+            "model": {
+                "android": "coffeetable",
+                "ios": "coffeetable"
+            },
+            "images": [
+                "https://secure.img1-ag.wfcdn.com/im/92792943/resize-h800%5Ecompr-r85/3655/36555141/Derry+Sofa.jpg", 
+                "https://secure.img1-ag.wfcdn.com/im/70091117/resize-h800%5Ecompr-r85/3655/36555143/Derry+Sofa.jpg",
+                "https://secure.img1-ag.wfcdn.com/im/81442030/resize-h800%5Ecompr-r85/3655/36555142/Derry+Sofa.jpg"
+             ],
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam sagittis varius congue. Phasellus nec est et est aliquet aliquet. Mauris quis elit dui. Pellentesque rhoncus lacinia tempus. Vestibulum mollis augue nec nisi auctor vehicula. Mauris sodales iaculis luctus. Nullam leo lectus, venenatis id laoreet sit amet, lobortis ac eros. Mauris eget purus sed ex consectetur sollicitudin id ac massa. Nam tempus gravida lobortis. Duis id lectus aliquam, pharetra massa ut, vulputate odio. Vestibulum scelerisque tortor eu augue maximus, vel rutrum mi pulvinar. Nulla gravida vitae leo",
+            "specifications":{
+                "manufacturer": "Singer",
+                "modelNo": "XYZ1",
+                "weight": "21",
+                "size": {
+                    "w": 41.5,
+                    "h": 20,
+                    "d": 11.5
+                },
+                "materials": [
+                    "leather", "wood"
+                ],
+                "style": [
+                    "modern"
+                ]
+            },
+            "info": [
+                "1 year warranty",
+                "Free service upto 6 months"
+            ],
+            "category": {
+                "_id": "5a8399b2",
+                "name": "Living Room",
+                "cover": "https://images.unsplash.com/photo-1506377295352-e3154d43ea9e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=45b23363a3f913999845ba0f7c6358a0&w=1000&q=80",
+                "createdAt": "2018-06-16T18:10:06.315Z",
+                "updatedAt": "2018-06-16T18:10:06.315Z"
+        
+            },
+            "vendor": {
+                "_id": "o9e99201",
+                "name": "Singer",
+                "logo": "https://cdn.freebiesupply.com/logos/large/2x/singer-3-logo-png-transparent.png",
+                "website": "https://www.singersl.com",
+                "createdAt": "2018-06-16T18:10:06.315Z",
+                "updatedAt": "2018-06-16T18:10:06.315Z"
+            },
+            "createdAt": "2018-06-16T18:10:06.315Z",
+            "updatedAt": "2018-06-16T18:10:06.315Z"
+        },
+        {
+            "_id": "84236788",
+            "name": "Walton Lane Sofa",
+            "price": 1600.00,
+            "model": {
+                "android": "waltensofa",
+                "ios": "waltensofa"
+            },
             "images": [
                 "https://secure.img1-ag.wfcdn.com/im/92792943/resize-h800%5Ecompr-r85/3655/36555141/Derry+Sofa.jpg", 
                 "https://secure.img1-ag.wfcdn.com/im/70091117/resize-h800%5Ecompr-r85/3655/36555143/Derry+Sofa.jpg",
