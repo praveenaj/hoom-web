@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "mongoDs": {
+    "host": "ds125293.mlab.com",
+    "port": 25293,
+    "url": "",
+    "database": "heroku_gt4c4hds",
+    "password": "o25uo2umfdrfjdhtihsmj6jdj5",
+    "name": "mongoDs",
+    "user": "heroku_gt4c4hds",
+    "connector": "mongodb"
+  }
+}
