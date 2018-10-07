@@ -1,0 +1,78 @@
+{
+  "name": "product",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "price": {
+      "type": "number",
+      "required": true
+    },
+    "description": {
+      "type": "string"
+    },
+    "model": {
+      "type": {
+        "android": "string",
+        "ios": "string"
+      }
+    },
+    "images": {
+      "type": ["string"]
+    },
+    "info": {
+      "type": ["string"]
+    },
+    "specifications": {
+      "type": {
+        "modelNo": "string",
+        "weight": "number",
+        "width": "number",
+        "height": "number",
+        "depth": "number",
+        "materials": {
+          "type": ["string"]
+        },
+        "style": {
+          "type": ["string"]
+        }
+      },
+      "required": true
+    }
+  },
+  "validations": [],
+  "relations": {
+    "category": {
+      "type": "belongsTo",
+      "model": "category",
+      "foreignKey": "",
+      "options": {
+        "nestRemoting": true
+      }
+    },
+    "vendor": {
+      "type": "belongsTo",
+      "model": "vendor",
+      "foreignKey": "",
+      "options": {
+        "nestRemoting": true
+      }
+    },
+    "brand": {
+      "type": "belongsTo",
+      "model": "brand",
+      "foreignKey": "",
+      "options": {
+        "nestRemoting": true
+      }
+    }
+  },
+  "acls": [],
+  "methods": {}
+}
